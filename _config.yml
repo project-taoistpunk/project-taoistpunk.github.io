@@ -1,8 +1,13 @@
-title: Just the Docs Template
+title: Project：道仙朋克
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://github.com/project-taoistpunk
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Github主页": https://github.com/project-taoistpunk/project-taoistpunk.github.io
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "10.2.3"
