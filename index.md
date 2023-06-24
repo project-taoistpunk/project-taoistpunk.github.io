@@ -5,8 +5,6 @@ layout: home
 
 
 
-# 《代号：道仙朋克》策划Wiki
+# 《Project:道仙朋克》策划Wiki
 
-
-
-是
+卧槽！WSL！神仙！
