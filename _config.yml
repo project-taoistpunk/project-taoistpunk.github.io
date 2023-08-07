@@ -1,11 +1,11 @@
-title: Project:道仙朋克
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 山峰有露-车库
+description: 羊花后花园
 theme: just-the-docs
 
 url: https://github.com/project-taoistpunk
 
 aux_links:
-  "Github主页": https://github.com/project-taoistpunk/project-taoistpunk.github.io
+  "Lofter主页": https://irisweish.lofter.com/
 
 mermaid:
   # Version of mermaid library
